@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="362px" height="362px" viewBox="0 0 362 362" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Piano" transform="translate(-538.000000, -241.000000)">
+            <circle id="Oval-2" fill="#EC96A4" cx="719" cy="422" r="181"></circle>
+            <g id="Group-2" transform="translate(633.000000, 316.000000)">
+                <rect id="Rectangle-7" fill="#5C535D" x="62" y="189" width="50" height="17"></rect>
+                <polygon id="Rectangle-10" fill="#5B525D" points="54 89 125 89 122 101 57 101"></polygon>
+                <rect id="Rectangle-11" fill="#FFFFFF" x="70" y="83" width="19" height="17"></rect>
+                <rect id="Rectangle-11" fill="#FFFFFF" x="90" y="83" width="19" height="17"></rect>
+                <rect id="Rectangle-2" fill="#5C525C" x="0" y="100" width="173" height="46"></rect>
+                <g id="Group" transform="translate(8.000000, 143.000000)">
+                    <circle id="Oval-3" fill="#FFFFFF" cx="19.5" cy="64.5" r="4.5"></circle>
+                    <path d="M20,60.9282032 L20,58 L16,58 L16,61.5563354 L16.0158691,61.990838 L16,62 L18.0010434,65.4659089 C18.5508697,66.4182359 19.7754656,66.7484372 20.7320508,66.1961524 C21.6953052,65.6400172 22.0168535,64.421496 21.4651451,63.4659089 L20,60.9282032 Z" id="Combined-Shape" fill="#5C525C"></path>
+                    <rect id="Rectangle-3" fill="#5C525C" x="13" y="3" width="10" height="56"></rect>
+                    <rect id="Rectangle-4" fill="#5C525C" x="0" y="0" width="35" height="7"></rect>
+                    <path d="M13.7266785,17 L14,17 L14,6 L3,6 L3,6.02604912 C3.25931842,6.00878826 3.52134343,6 3.78571429,6 C9.42690852,6 14,10.001455 14,14.9375 C14,15.6473702 13.9054178,16.3379109 13.7266785,17 Z" id="Combined-Shape" fill="#5C525C"></path>
+                    <path d="M32.7266785,17 L33,17 L33,6 L22,6 L22,6.02604912 C22.2593184,6.00878826 22.5213434,6 22.7857143,6 C28.4269085,6 33,10.001455 33,14.9375 C33,15.6473702 32.9054178,16.3379109 32.7266785,17 Z" id="Combined-Shape" fill="#5C525C" transform="translate(27.500000, 11.500000) scale(-1, 1) translate(-27.500000, -11.500000) "></path>
+                </g>
+                <g id="Group" transform="translate(129.000000, 141.000000)">
+                    <circle id="Oval-3" fill="#FFFFFF" cx="19.5" cy="66.5" r="4.5"></circle>
+                    <path d="M20,62.9282032 L20,59 L16,59 L16,63.403082 L16.0168457,63.9741444 L16.0366056,63.9788658 L16,64 L18.0010434,67.4659089 C18.5508697,68.4182359 19.7754656,68.7484372 20.7320508,68.1961524 C21.6953052,67.6400172 22.0168535,66.421496 21.4651451,65.4659089 L20,62.9282032 Z" id="Combined-Shape" fill="#5C535D"></path>
+                    <rect id="Rectangle-3" fill="#5C535D" x="13" y="5" width="10" height="55"></rect>
+                    <rect id="Rectangle-4" fill="#5C535D" x="0" y="0" width="35" height="9"></rect>
+                    <path d="M13.7266785,19 L14,19 L14,8 L3,8 L3,8.02604912 C3.25931842,8.00878826 3.52134343,8 3.78571429,8 C9.42690852,8 14,12.001455 14,16.9375 C14,17.6473702 13.9054178,18.3379109 13.7266785,19 Z" id="Combined-Shape" fill="#5C535D"></path>
+                    <path d="M32.7266785,19 L33,19 L33,8 L22,8 L22,8.02604912 C22.2593184,8.00878826 22.5213434,8 22.7857143,8 C28.4269085,8 33,12.001455 33,16.9375 C33,17.6473702 32.9054178,18.3379109 32.7266785,19 Z" id="Combined-Shape" fill="#5C535D" transform="translate(27.500000, 13.500000) scale(-1, 1) translate(-27.500000, -13.500000) "></path>
+                </g>
+                <rect id="Rectangle-9" fill="#5B525D" transform="translate(54.500000, 54.961941) rotate(45.000000) translate(-54.500000, -54.961941) " x="47.7555736" y="-15.368272" width="13.4888527" height="140.660426"></rect>
+                <rect id="Rectangle-9" fill="#5B525D" transform="translate(121.607111, 68.123860) rotate(135.000000) translate(-121.607111, -68.123860) " x="118.739928" y="15.2810838" width="5.73436499" height="105.685552"></rect>
+                <polygon id="Rectangle-8" fill="#FFFFFF" points="67 197 66.4231074 195.46246 67 194 82 194 82.5015414 195.46246 82 197 79.0000002 199 70 199"></polygon>
+                <polygon id="Rectangle-8" fill="#FFFFFF" points="91.5768926 197 91 195.46246 91.5768926 194 106.576893 194 107.078434 195.46246 106.576893 197 103.576893 199 94.5768926 199"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
